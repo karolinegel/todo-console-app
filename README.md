@@ -1,2 +1,9 @@
-# todo-console-app
-todo-console-app
+# Todo Console App
+
+Simple todo app.
+
+Run:
+python todo.py
+
+Tests:
+pytest
